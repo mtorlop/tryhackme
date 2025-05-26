@@ -1,4 +1,4 @@
 # Portfolio TryHackMe
 
-# SOC Level 1
+# Jr Penetration Tester
 
